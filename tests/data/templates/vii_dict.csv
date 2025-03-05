@@ -1,0 +1,7 @@
+lemma,definition,type,llm_templates
+agaasadetigweyaa,it (a river) is narrow,vii,"{'verbs': ['be'], 'templates': ['{{subject}} (a river) be narrow']}"
+gijigikozo,it (animate) is carved zigzag or rippled,vii,"{'verbs': ['be'], 'templates': ['{{subject}} (animate) be carved zigzag or rippled']}"
+minjimishkoode,"it is pinned down, held in place (with weight)",vii,"{'verbs': ['be', 'hold'], 'templates': ['{{subject}} be pinned down (with weight)', '{{subject}} be held in place (with weight)']}"
+waasese,there is a flash of lightning,vii,"{'verbs': ['be'], 'templates': ['there be a flash of lightning']}"
+wewebaasin,"it is blown back and forth (by the wind), flutters, flaps",vii,"{'verbs': ['be', 'flutter', 'flap'], 'templates': ['{{subject}} be blown back and forth (by the wind)', '{{subject}} flutter', '{{subject}} flap']}"
+zhooshkwaakwad,it is smooth (as something stick- or wood-like),vii,"{'verbs': ['be'], 'templates': ['{{subject}} be smooth (as something stick- or wood-like)']}"

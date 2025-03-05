@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "ojibwe_translation"
+version = "0.1.0"
+description = "An translation-layer tool for translating Ojibwe into English"
+authors = ["Minh Nguyen <nguyentranminh@gmail.com>"]
+license = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+pyinflect = "^0.5.1"
+fst-runtime = "^0.1.0"
+numpy = "1.26.4"
+
+[tool.poetry.group.dev.dependencies]
+pylint = "^3.3.1"
+pyright = "^1.1.381"
+pytest = "^8.3.3"
+ipykernel = "^6.29.5"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.pytest.ini_options]
+log_cli = true
+log_cli_level = "DEBUG"
+log_cli_format = "%(asctime)s [%(levelname)8s] %(message)s (%(filename)s:%(lineno)s)"
+log_cli_date_format = "%Y-%m-%d %H:%M:%S"

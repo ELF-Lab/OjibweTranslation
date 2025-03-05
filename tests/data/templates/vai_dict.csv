@@ -1,0 +1,8 @@
+lemma,definition,type,llm_templates
+abweninjii,s/he has a sweaty hand,vai,"{'verbs': ['have'], 'templates': ['{{subject}} have a sweaty hand']}"
+baashkizodizo,s/he shoots h/ self,vai,"{'verbs': ['shoot'], 'templates': ['{{subject}} shoot oneself']}"
+mizizi,s/he catches a disease; s/he starts to get sick,vai,"{'verbs': ['catch', 'get'], 'templates': ['{{subject}} catch a disease', '{{subject}} get sick']}"
+maakishin,s/he is injured by falling or by hitting against something,vai,"{'verbs': ['be'], 'templates': ['{{subject}} be injured by falling or by hitting against something']}"
+onibiimi,s/he has water,vai,"{'verbs': ['have'], 'templates': ['{{subject}} have water']}"
+zhaaganaashiiwinikaazo,"s/he has an English name, is called in English",vai,"{'verbs': ['have', 'be'], 'templates': ['{{subject}} have an english name', '{{subject}} be called in english']}"
+nibaa,"s/he sleeps, is asleep",vai,"{'verbs': ['sleep', 'be'], 'templates': ['{{subject}} sleep', '{{subject}} be asleep']}"

@@ -1,0 +1,5 @@
+ojibwe_translation >= 0.1.0, < 1.0
+httpx==0.27.2
+nicegui >= 2.7, < 3.0
+pandas >= 2.2.3, <2.3 
+tabulate

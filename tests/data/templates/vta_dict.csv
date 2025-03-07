@@ -1,0 +1,9 @@
+lemma,definition,type,llm_templates
+aadawa'am,go with h/ in a boat,vta,"{'verbs': ['go'], 'templates': ['{{subject}} go with {{object}} in a boat']}"
+abwaazh,"roast, cook h/ over a fire",vta,"{'verbs': ['roast', 'cook'], 'templates': ['{{subject}} roast {{object}} over a fire', '{{subject}} cook {{object}} over a fire']}"
+giziidoone',wipe h/ mouth,vta,"{'verbs': ['wipe'], 'templates': ['{{subject}} wipe {{object}} mouth']}"
+niimaakwa',pick it (animate) up or hold it (animate) out with something stick-like,vta,"{'verbs': ['pick', 'hold'], 'templates': ['{{subject}} pick {{object}} up', '{{subject}} hold {{object}} out with something stick-like']}"
+zaakwaazh,cheer for h/; yell at h/,vta,"{'verbs': ['cheer', 'yell'], 'templates': ['{{subject}} cheer for {{object}}', '{{subject}} yell at {{object}}']}"
+ozhi-ayaaw,get h/ ready; prepare h/,vta,"{'verbs': ['get', 'prepare'], 'templates': ['{{subject}} get {{object}} ready', '{{subject}} prepare {{object}}']}"
+waabam,see h/,vta,"{'verbs': ['see'], 'templates': ['{{subject}} see {{object}}']}"
+wiikwaabiigin,pull h/ with a rope,vta,"{'verbs': ['pull'], 'templates': ['{{subject}} pull {{object}} with a rope']}"

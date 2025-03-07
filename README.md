@@ -62,7 +62,7 @@ The package requires sereral software and packages to operate:
   `git clone https://github.com/ELF-Lab/OjibweTranslation.git`
 - Create a conda environment (if you don't have Python 3.12 running, or want to use virtual environment with conda)
   
-  `conda create --name ojibwe_translation`
+  `conda create --name ojibwe_translation python=3.12`
 - Activate the new environment
   
   `conda activate ojibwe_translation`

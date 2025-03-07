@@ -60,9 +60,6 @@ The package requires sereral software and packages to operate:
 - Clone the package repo
   
   `git clone https://github.com/ELF-Lab/OjibweTranslation.git`
-- (During development time, before official release) Switch to the `dev` branch
-  
-  `git checkout dev`
 - Create a conda environment (if you don't have Python 3.12 running, or want to use virtual environment with conda)
   
   `conda create --name ojibwe_translation`
@@ -72,6 +69,7 @@ The package requires sereral software and packages to operate:
 - Move the cloned folder and install the package. It will also install required dependencies
   
   `cd OjibweTranslation`
+  
   `pip install -e .`
 
 ### Run the web interface

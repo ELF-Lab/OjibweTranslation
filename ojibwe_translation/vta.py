@@ -442,7 +442,7 @@ def vta_oj2en_builder(inflected_ojibwe_word:str, core_environment:dict, verb_ana
         for fst_output_item in fst_output_tags:
             # build possible translation for **each** parsed fst output item 
             sentence_structure = verb_analyzer_function(fst_output_item)
-                
+            
             if sentence_structure is None:
                 return [{OUTPUT_INPUT: inflected_ojibwe_word,
                          OUTPUT_FST_OUTPUT: fst_output_item,
@@ -454,8 +454,6 @@ def vta_oj2en_builder(inflected_ojibwe_word:str, core_environment:dict, verb_ana
             lemma = sentence_structure[VERB_LEMMA]
             definition = "" # dictionary definition for the lemma
             if lemma != "":
-                # dictionary_df = None # initial value
-                
                 if sentence_structure[VERB_TYPE] == FST_VTA:
                     dictionary_df = core_environment.get(ENV_VTA_DICTIONARY_DF)
                 elif sentence_structure[VERB_TYPE] == FST_VTI:

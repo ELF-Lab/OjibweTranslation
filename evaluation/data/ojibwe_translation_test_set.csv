@@ -1,0 +1,215 @@
+ojibwe_verb,verb_type,english_translation_raw,english_translation_standardized,lesson_number
+nimbakade,I am hungry,"1s pf, vai",I am hungry,Lesson 1
+gibakade,you are hungry,"2s pf, vai",you are hungry,Lesson 1
+bakade,s/he is hungry,"3s, vai",he/she is hungry,Lesson 1
+niwii-wiisin,"1s pf, pv tns, vai","I want to eat, I will eat",I want to eat,Lesson 1
+giwii-wiisin,"2s pf, pv tns, vai","you want to eat, you will eat",you want to eat,Lesson 1
+ningiiwe,"1s pf, vai",I am going home,I am going home,Lesson 1
+gigiiwe,"2s pf, vai",You are going home,You are going home,Lesson 1
+giiwe,"3s, vai",s/he goes home,he/she goes home,Lesson 1
+niwii-kiiwe,"1s pf, pv tns, vai","I want to go home, I will go home",I want to go home,Lesson 1
+giwii-kiiwe,"2s pf, pv tns, vai","You want to go home, You will go home",You want to go home,Lesson 1
+wii-kiiwe,"3s, pv tns, vai","S/he wants to go home, she will go home",he/she wants to go home,Lesson 1
+giga-waabamin,"1s-2s pf, pv tns, vta, 1s-2s sf",I will see you (definite future tense),I will see you (definite future tense),Lesson 1
+nimbii',"1s pf, vai",I wait,I wait,Lesson 1
+gibii',"2s pf, vai",you wait,you wait,Lesson 1
+bii'o,"3s, vai",s/he waits,he/she waits,Lesson 1
+niwiisin,"1s pf, vai",I eat,I eat,Lesson 1
+giwiisin,"2s pf, vai",you eat,you eat,Lesson 1
+wiisini,"3s, vai",s/he eats,he/she eats,Lesson 1
+ningiigid,"1s pf, vai",I speak,I speak,Lesson 1
+gigiigid,"1s pf, vai",you speak,you speak,Lesson 1
+giigido,"3s, vai",s/he speaks,he/she speaks,Lesson 1
+nimaajaa,"1s pf, vai",I leave,I leave,Lesson 1
+gimaajaa,"2s pf, vai",you leave,you leave,Lesson 1
+maajaa,"3s, vai",s/he leaves,he/she leaves,Lesson 1
+niniim,"1s pf, vai",I dance,I dance,Lesson 1
+nimbaap,"1s pf, vai",I laugh,I laugh,Lesson 1
+nindikid,"1s pf, vai",I say,I say,Lesson 1
+gimaw,"2s pf, vai",you cry,you cry,Lesson 1
+gimamaajii,"2s pf, vai",you move,you move,Lesson 1
+giniibaw,"2s pf, vai",you stand,you stand,Lesson 1
+niibawi,"3s, vai",s/he stands,he/she stands,Lesson 1
+nagamo,"3s, vai",s/he sings,he/she sings,Lesson 1
+namadabi,"3s, vai",s/he sits,he/she sits,Lesson 1
+baapi,"3s, vai",s/he laughs,he/she laughs,Lesson 1
+jaachaamo,"3s, vai",s/he sneezes,he/she sneezes,Lesson 1
+ozosodam,"3s, vai2",s/e coughs,s/e coughs,Lesson 1
+gii-apatoo,"3s, pv tns, vai",s/he ran,he/she ran,Lesson 1
+gii-pimaadage,"3s, pv tns, vai",s/he swam,he/she swam,Lesson 1
+bimaadage,"3s, vai",s/he swims,he/she swims,Lesson 1
+apatoo,"3s, vai",s/he runs,he/she runs,Lesson 1
+bangishin,"3s, vai",s/he falls,he/she falls,Lesson 1
+gii-pangishin,"3s, pv tns, vai",s/he fell,he/she fell,Lesson 1
+daa-izhaa,"3s, pv tns/m, vai",s/he should go,he/she should go,Lesson 1
+daa-bimise,"3s, pv tns/m, vai/vii",s/he should fly (e.g. on a plane),he/she should fly (e.g. on a plane),Lesson 1
+bimise,"3s, vai/vii",s/he flies (e.g. on a plane),he/she flies (e.g. on a plane),Lesson 1
+zhingishin,"3s, vai",s/he lies down,he/she lies down,Lesson 1
+daa-zhingishin,"3s, pv tns/m, vai",s/he should lie down,he/she should lie down,Lesson 1
+minikwe,"3s, vai+o",s/he is drinking,he/she is drinking,Lesson 1
+daa-minwaagamin,"Os, pv tns/m, vii","could, should, taste good (liquid)","could, should, taste good (liquid)",Lesson 1
+minwaagamin,"Os, vii",it (a liquid) tastes good,it (a liquid) tastes good,Lesson 1
+giga-mazinaatesijigemin,"21p pf, pv tns, vai, 21p sf",we (incl.) will watch t.v./film,we (incl.) will watch t.v./film,Lesson 1
+mazinaatesijige,"3s, vai",s/he is watching t.v./film,he/she is watching t.v./film,Lesson 1
+niwii-minikwe,"1s pf, pv tns, vai",I will/want to drink,I want to drink,Lesson 1
+giwii-minikwe,"2s pf, pv tns, vai",you will/want to drink,you want to drink,Lesson 1
+ningiishkaabaagwe,"1s pf, vai",I am thirsty,I am thirsty,Lesson 1
+gigiishkaabaagwe,"2s pf, vai",you are thirsty,you are thirsty,Lesson 1
+giishkaabaagwe,"3s, vai",s/he is thirsty,he/she is thirsty,Lesson 1
+nindebisinii,"1s pf, vai",I am full (from eating),I am full (from eating),Lesson 1
+gidebisinii,"2s pf, vai",you are full (from eating),you are full (from eating),Lesson 1
+debisinii,"3s, vai",s/he is full (from eating),he/she is full (from eating),Lesson 1
+anokii,"3s, vai",s/he works,he/she works,Lesson 2
+nindanokii,"1s pf, vai",I work,I work,Lesson 2
+gidanokii,"2s pf, vai",you work,you work,Lesson 2
+ojaanimizi,"3s, vai",s/he is busy,he/she is busy,Lesson 2
+gidoojaanimiz,"2s pf, vai",you are busy,you are busy,Lesson 2
+nindoojaanimiz,"1s pf, vai",I am busy,I am busy,Lesson 2
+ayaa,"3s, vai",s/he is (in a certain place),he/she is (in a certain place),Lesson 2
+nindayaa,"1s pf, vai",I am in a certain place.,I am in a certain place.,Lesson 2
+gidayaa,"2s pf, vai",you are in a certain place,you are in a certain place,Lesson 2
+nindanweb,"1s pf, vai",I rest,I rest,Lesson 2
+gidanweb,"1s pf, vai",you rest,you rest,Lesson 2
+anwebi,"3s, vai",s/he rests,he/she rests,Lesson 2
+nindab,"1s pf, vai","I am at home, I am sitting in a certain place",I am at home,Lesson 2
+gidab,"2s pf, vai","you are at home,  you are sitting in a certain place",you are at home,Lesson 2
+ninga-ayaa,"1s pf, pv tns, vai",I will be there,I will be there,Lesson 2
+ninga-kiiwe,"1s pf, pv tns, vai",I will go home,I will go home,Lesson 2
+gidaa-jiibaakwemin,"21p pf, pv tns, vai, 21p sf",we (incl.) should/could cook,we (incl.) should/could cook,Lesson 2
+giga-jiibaakwemin,"21p pf, pv tns, vai, 21p sf",we (incl.) will cook,we (incl.) will cook,Lesson 2
+ninjiibaakwe,"1s pf, vai",I'm cooking,I'm cooking,Lesson 3
+gijiibaakwe,"2s pf, vai",you're cooking,you're cooking,Lesson 3
+jiibaakwe,"3s, vai",s/he is cooking,he/she is cooking,Lesson 3
+wii-wiisini,"3s pf, pv tns, vai",s/he want/will eat,he/she want/will eat,Lesson 3
+wiisinidaa,"vai, 21p imp sf",let's eat,let's eat,Lesson 3
+ningii-ozhisijige,"1s pf, pv tns, vai",I setted things,I setted things,Lesson 3
+gigii-ozhisijige,"2s pf, pv tns, vai",you setted things,you setted things,Lesson 3
+gii-ozhisijige,"3s, pv tns, vai",s/he setted things,he/she setted things,Lesson 3
+daa-ate,"pv tns, vii",it could/should be there,it could/should be there,Lesson 3
+ninga-ozhisijige,"1s pf, pv tns, vai",I will set things,I will set things,Lesson 3
+giga-ozhisijige,"2s pf, pv tns, vai",you will set things,you will set things,Lesson 3
+da-ozhisijige,"3s, pv tns, vai",s/he will set things,he/she will set things,Lesson 3
+ninga-minopijigemin,"1p pf, pv tns, vai, 1p sf",we (excl.) will enjoy the taste of things,we (excl.) will enjoy the taste of things,Lesson 3
+da-minopogwad,"pv tns, vii",it will taste good,it will taste good,Lesson 3
+ninandawendaan,"1s-Os pf, vti, 1s-Os sf",I need/want it (in.),I want it (in.),Lesson 4
+ninandawendaanan,"1s-Op pf, vti, 1s-Op sf",I need/want them (in.),I want them (in.),Lesson 4
+ginandawendaan,"2s-Os pf, vti, 2s-Os sf",you need/want it (in.),you want it (in.),Lesson 4
+ginandawendaanan,"2s-Op pf, vti, 2s-Op sf",you need/want them (in.),you want them (in.),Lesson 4
+onandawendaan,"3s-Os pf, vti, 3s-Os sf",s/he needs/wants it (in.),he/she wants it (in.),Lesson 4
+onandawendaanan,"3s-Op pf, vti, 3s-Op sf",s/he needs/wants them (in.),he/she wants them (in.),Lesson 4
+nindayaan,"1s-Os pf, vti4, 1s-Os sf",I have/own it (in.),I have it (in.),Lesson 4
+nindayaanan,"1s-Op pf, vti4, 1s-Op sf",I have/own them (in.),I have them (in.),Lesson 4
+gidayaan,"2s-Os pf, vti4, 1s-Os sf",you have/own it (in.),you have it (in.),Lesson 4
+gidayaanan,"2s-Op pf, vti4, 2s-Op sf",you have/own them (in.),you have them (in.),Lesson 4
+odayaan,"3s-Os pf, vti4, 3s-Os sf",s/he has/owns it (in.),he/she has it (in.),Lesson 4
+odayaanan,"3s-Op pf, vti4, 3s-Op sf",s/he has/owns them (in.),he/she has them (in.),Lesson 4
+agaasaawan,"vii, Op sf",they are small,they are small,Lesson 4
+onizhishinoon,"vii, Op sf","they are nice, good",they are nice,Lesson 4
+nindinendam,"1s pf, vai2","I think a certain way, consent",I think a certain way,Lesson 4
+gidinendam,"2s pf, vai2","you think a certain way, consent","you think a certain way, consent",Lesson 4
+inendam,"3s, vai2","s/he thinks a certain way, consents","he/she thinks a certain way, consents",Lesson 4
+michaawan,"vii, Op sf",they are big,they are big,Lesson 4
+nindayaawaa,"1s-3s pf, vta, 1s-3s sf",I have/own it (an.),I have it (an.),Lesson 4
+nindayaawaag,"1s-3p pf, vta, 1s-3p sf",I have/owh them (an.),I have/owh them (an.),Lesson 4
+gidayaawaa,"2s-3s pf, vta, 2s-3s sf",you have/own it (an.),you have it (an.),Lesson 4
+gidayaawaag,"2s-3p pf, vta, 2s-3p sf",you have/own them (an.),you have them (an.),Lesson 4
+odayaawaan,"3s-3' pf, vta, 3s-3' sf",s/he has it/them (an.),he/she has it/them (an.),Lesson 4
+ninandawenimaa,"1s-3s pf, vta, 1s-3s sf",I need/want it (an.),I want it (an.),Lesson 4
+ninandawenimaag,"1s-3p pf, vta, 1s-3p sf",I need/want them (an.),I want them (an.),Lesson 4
+ginandawenimaa,"2s-3s pf, vta, 2s-3s sf",you need/want it (an.),you want it (an.),Lesson 4
+ginandawenimaag,"2s-3p pf, vta, 2s-3p sf",you need/want them (an.),you want them (an.),Lesson 4
+onandawenimaan,"3s-3' pf, vta, 3s-3' sf",s/he needs/wants it/them (an.),he/she wants it/them (an.),Lesson 4
+nimbezhig,"1s pf, vai","I am alone, am one","I am alone, am one",Lesson 4
+gibezhig,"2s pf, vai","you are alone, are one","you are alone, are one",Lesson 4
+bezhigo,"3s, vai","s/he is alone, is one","he/she is alone, is one",Lesson 4
+nindagaashiinh,"1s pf, vai",I am small,I am small,Lesson 4
+gidagaashiinh,"2s pf, vai",you are small,you are small,Lesson 4
+agaashiinyi,"3s, vai",s/he is small,he/she is small,Lesson 4
+nimindid,"1s pf, vai",I am big,I am big,Lesson 4
+gimindid,"2s pf, vai",you are big,you are big,Lesson 4
+mindido,"3s, vai",s/he is big,he/she is big,Lesson 4
+daa-michaa,"pv tns, vii",it could/should be big,it could/should be big,Lesson 4
+giga-ganoonin,"1s-2s pf, pv tns, vta, 1s-2s sf",I will talk to you,I will talk to you,Lesson 4
+ninganawaabandaan,"1s-Os pf, vti, 1s-Os sf",I look/watch it,I look/watch it,Lesson 5
+ninganawaabandaanan,"1s-Op pf, vti, 1s-Op sf",I look/watch them,I look/watch them,Lesson 5
+giganawaabandaan,"2s-Os pf, vti, 2s-Os sf",you look/watch it,you look/watch it,Lesson 5
+giganawaabandaanan,"2s-Op pf, vti, 2s-Op sf",you look/watch them,you look/watch them,Lesson 5
+oganawaabandaan,"3s-Os pf, vti, 3s-Os sf",s/he looks/watches it,he/she looks/watches it,Lesson 5
+oganawaabandaanan,"3s-Op pf, vti, 3s-Op sf",s/he looks/watches them,he/she looks/watches them,Lesson 5
+ningii-kanawaabandaan,"1s-Os pf, pv tns, vti, 1s-Os sf",I looked/watched it,I looked/watched it,Lesson 5
+gigii-kanawaabandaan,"2s-Os pf, pv tns, vti, 2s-Op sf",you looked/watched it,you looked/watched it,Lesson 5
+ogii-kanawaabandaan,"3s-Os pf, pv tns, vti, 3s-Os sf",s/he looked/watched it,he/she looked/watched it,Lesson 5
+niwii-kanawaabandaan,"1s-Os pf, pv tns, vti, 1s-Os sf",I want/will watch it,I want/will watch it,Lesson 5
+giwii-kanawaabandaan,"2s-Os pf, pv tns, vti, 2s-Os sf",you want/will watch it,you want/will watch it,Lesson 5
+owii-kanawaabandaan,"3s-Os pf, pv tns, vti, 3s-Os sf",s/he wants/will watch it,he/she wants/will watch it,Lesson 5
+da-mazinaatese,"pv tns, vii",the movie/tv/film will play,the movie/tv/film will play,Lesson 5
+mazinaateseg,"vii, conj sf",when/if/that/while the movie is playing,if/when the movie is playing,Lesson 5
+dibikak,"vii, conj sf",when/if/that/during the night,when/if/that/during the night,Lesson 5
+niminwendaan,"1s-Os pf, vti, 1s-Os sf",I like it,I like it,Lesson 5
+niminwendaanan,"1s-Op pf, vti, 1s-Op sf",I like them,I like them,Lesson 5
+giminwendaan,"2s-Os pf, vti, 2s-Os sf",you like it,you like it,Lesson 5
+giminwendaanan,"2s-Op pf, vti, 2s-Op sf",you like them,you like them,Lesson 5
+ominwendaan,"3s-Os pf, vti, 3s-Os sf",s/he likes it,he/she likes it,Lesson 5
+ominwendaanan,"3s-Op pf, vti, 3s-Op sf",s/he likes them,he/she likes them,Lesson 5
+gidaa-minikwemin,"21p pf, pv tns, vai+o, 21p sf",we (incl.) should drink,we (incl.) should drink,Lesson 5
+ninga-ozhitoon,"1s pf, pv tns, vti2",I will make it,I will make it,Lesson 5
+nindizhaa,"1s pf, vai",I am going to a certain place,I am going to a certain place,Lesson 5
+gidizhaa,"2s pf, vai",you are going to a certain place,you are going to a certain place,Lesson 5
+izhaa,"3s, vai",s/he is going to a certain place,he/she is going to a certain place,Lesson 5
+ningii-izhaa,"1s pf, pv tns, vai",I went to a certain place,I went to a certain place,Lesson 5
+gigii-izhaa,"2s pf, pv tns, vai",you went to a certain place,you went to a certain place,Lesson 5
+gii-izhaa,"3s, pv tns, vai",s/he went to a certain place,he/she went to a certain place,Lesson 5
+niwaabamaa,"1s-3s pf, vta, 1s-3s sf",I see h/,I see him/her/it,Lesson 5
+niwaabamaag,"1s-3p pf, vta, 1s-3p sf",I see them,I see them,Lesson 5
+giwaabamaa,"2s-3s pf, vta, 2s-3s sf",you see h/,you see him/her/it,Lesson 5
+giwaabamaag,"2s-3p pf, vta, 2s-3p sf",you see them,you see them,Lesson 5
+owaabamaan,"3s-3' pf, vta, 3s-3' sf",s/he sees h//them,he/she sees him/her/it/them,Lesson 5
+ningii-waabamaa,"1s-3s pf, pv tns, vta, 1s-3s sf",I saw h/,I saw him/her/it,Lesson 5
+ningii-waabamaag,"1s-3p pf, pv tns, vta, 1s-3p sf",I saw them,I saw them,Lesson 5
+gigii-waabamaa,"2s-3s pf, pv tns vta, 2s-3s sf",you saw h/,you saw him/her/it,Lesson 5
+gigii-waabamaag,"2s-3p pf, pv tns, vta, 2s-3p sf",you saw them,you saw them,Lesson 5
+ogii-waabamaan,"3s-3' pf, pv tns, vta, 3s-3' sf",s/he saw h//them,he/she saw him/her/it/them,Lesson 5
+ninoondawaa,"1s-3s pf, vta, 1s-3s sf",I hear h/,I hear him/her/it,Lesson 5
+ninoondawaag,"1s-3p pf, vta, 1s-3p sf",I hear them,I hear them,Lesson 5
+ginoondawaa,"2s-3s pf, vta, 2s-3s sf",you hear h/,you hear him/her/it,Lesson 5
+ginoondawaag,"2s-3p pf, vta, 2s-3p sf",you hear them,you hear them,Lesson 5
+onoondawaan,"3s-3' pf, vta 3s-3' sf",s/he hear h//them,he/she hear him/her/it/them,Lesson 5
+ningii-noondawaa,"1s-3s pf, pv tns, vta, 1s-3s sf",I heard h/,I heard him/her/it,Lesson 5
+ningii-noondawaag,"1s-3p pf, pv tns, vta, 1s-3p sf",I heard them,I heard them,Lesson 5
+gigii-noondawaa,"2s-3s pf, pv tns, vta, 2s-3s sf",you heard h/,you heard him/her/it,Lesson 5
+gigii-noondawaag,"2s-3p pf, pv tns, vta, 2s-3p sf",you heard them,you heard them,Lesson 5
+ogii-noondawaan,"3s-3' pf, pv tns vta 3s-3' sf",s/he heard h//them,he/she heard him/her/it/them,Lesson 5
+ningiiwanim,"1s pf, vai",I am lying/decieving,I am lying/decieving,Lesson 5
+gigiiwanim,"2s pf, vai",you are lying/decieving,you are lying/decieving,Lesson 5
+giiwanimo,"3s, vai",s/he is lying/decieving,he/she is lying/decieving,Lesson 5
+niwii-izhaamin,"1p pf, pv tns, vai, 1p sf",we (excl) want/will go,we (excl) want/will go,Lesson 6
+giwii-izhaamin,"21p pf, pv tns, vai, 21p sf",we (incl) want/will go,we (incl) want/will go,Lesson 6
+niwii-izhaa,"1s pf, pv tns, vai",I want/will go,I want/will go,Lesson 6
+giwii-izhaa,"2s pf, pv tns, vai",you want/will go,you want/will go,Lesson 6
+wii-izhaa,"3s, pv tns, vai",s/he want/will go,he/she want/will go,Lesson 6
+ninga-anokii,"1s pf, pv tns, vai",I will work,I will work,Lesson 6
+giga-anokii,"2s pf, pv tns, vai",you will work,you will work,Lesson 6
+da-anokii,"3s, pv tns, vai",s/he will work,he/she will work,Lesson 6
+jibwaa-dibikak,"pv tns, vii, conj sf",when/at before dark,when/at before dark,Lesson 6
+nindaa-anokiimin,"1p pf, pv tns, vai, 1p sf",we (excl) should/could work,we (excl) should/could work,Lesson 6
+gidaa-anokiimin,"21p pf, pv tns, vai, 21p sf",we (incl) should/could work,we (incl) should/could work,Lesson 6
+ishpi-dibikak,"vii, conj sf",if/when/at/during late at night,if/when/at/during late at night,Lesson 6
+ninga-boozimin,"1p pf, pv tns, vai, 1p sf",we (excl) will get on board,we (excl) will get on board,Lesson 6
+giga-boozimin,"21p pf, pv tns, vai, 21p sf",we (incl) will get on board,we (incl) will get on board,Lesson 6
+bezikaamagad,"vii, vii sf",moves slowly,moves slowly,Lesson 6
+ninga-gizhiikaamin,"1p pf, pv tns, vai, 1p sf",we (excl) will move fast,we (excl) will move fast,Lesson 6
+giga-gizhiikaamin,"21p pf, pv tns, vai 21p pf",we (incl) will move fast,we (incl) will move fast,Lesson 6
+izhinikaazowag,"vai, 3p sf",they are named a certain way,they are named a certain way,Lesson 6
+ninga-minawaanigozimin,"1p pf, pv tns, vai, 1p sf","we (excl) are joyous, having a good time","we (excl) are joyous, having a good time",Lesson 6
+giga-minawaanigozimin,"21p pf, pv tns, vai, 21p sf","we (incl) are joyous, having a good time","we (incl) are joyous, having a good time",Lesson 6
+ezhinaagwak,"vii, conj sf",that which has a certain look,that which has a certain look,Lesson 6
+nindaa-abwemin,"1p pf, pv tns, vai, 1p sf",we (excl) should/could roast/cook over a fire,we (excl) should/could roast/cook over a fire,Lesson 6
+gidaa-abwemin,"21p pf, pv tns, vai, 21p sf",we (incl) should/could roast/cook over a fire,we (incl) should/could roast/cook over a fire,Lesson 6
+ninga-bakademin,"1p pf, pv tns, vai, 1p sf",we (excl) will be hungry,we (excl) will be hungry,Lesson 6
+giga-bakademin,"21p pf, pv tns, vai, 21p sf",we (incl) will be hungry,we (incl) will be hungry,Lesson 6
+ninga-biidoomin,"1p pf, pv tns, vti2, 1p sf",we (excl) will bring it,we (excl) will bring it,Lesson 6
+giga-biidoomin,"21p pf, pv tns, vti2, 21p sf",we (incl) will bring it,we (incl) will bring it,Lesson 6
+ninga-nandawenjigemin,"1p pf, pv tns, vai, 21p sf",we (excl) will hunt/fish/need things,we (excl) will hunt/fish/need things,Lesson 6
+giga-nandawenjigemin,"21p pf, pv tns, vai, 21p sf",we (incl) will hunt/fish/need things,we (incl) will hunt/fish/need things,Lesson 6
+nindaa-biidoomin,"1p pf, pv tns, vti2, 1p sf",we (excl) should/could bring it,we (excl) should/could bring it,Lesson 6
+gidaa-biidoomin,"21p pf, pv tns, vti2, 21p sf",we (incl) should/could bring it,we (incl) should/could bring it,Lesson 6

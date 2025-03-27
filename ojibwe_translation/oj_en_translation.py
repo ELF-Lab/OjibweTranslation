@@ -234,7 +234,10 @@ def oj2en_builder(inflected_ojibwe_word: str, environment: dict) -> list[dict]:
 
 
     if f"+{FST_VTA}" in fst_output:
-        result = vta_oj2en_builder(inflected_ojibwe_word=inflected_ojibwe_word, core_environment=environment)
+        result = vta_oj2en_builder(inflected_ojibwe_word=inflected_ojibwe_word, 
+                                   core_environment=environment, 
+                                   verb_analyzer_function=fst_verb_analyzer
+                                   )
     elif f"+{FST_VTI}" in fst_output:
         result = vti_oj2en_builder(inflected_ojibwe_word=inflected_ojibwe_word, core_environment=environment)
     elif f"+{FST_VAI}" in fst_output:

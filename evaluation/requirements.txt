@@ -1,0 +1,4 @@
+ojibwe_translation
+nltk
+sentence-transformers
+pandas

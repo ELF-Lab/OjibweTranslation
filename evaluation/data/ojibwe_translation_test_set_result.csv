@@ -1,7 +1,7 @@
 ojibwe_verb,english_translation_raw,english_translation_standardized,best_system_translation,chrf_score,best_semantic_translation,semantic_similarity_score
-nimbakade,"1s pf, vai",I am hungry,I am hungry,1.0,I am hungry,1.0000001192092896
-gibakade,"2s pf, vai",you are hungry,you are hungry,1.0,you are hungry,0.9999998807907104
-bakade,"3s, vai",he/she is hungry,he/she (proximate) is hungry,1.0,he/she (proximate) is hungry,1.0
+nimbakade,I am hungry,I am hungry,I am hungry,1.0,I am hungry,1.0000001192092896
+gibakade,you are hungry,you are hungry,you are hungry,1.0,you are hungry,0.9999998807907104
+bakade,s/he is hungry,he/she is hungry,he/she (proximate) is hungry,1.0,he/she (proximate) is hungry,1.0
 niwii-wiisin,"I want to eat, I will eat",I want to eat,I want to eat,1.0,I want to eat,1.0000001192092896
 giwii-wiisin,"you want to eat, you will eat",you want to eat,you want to eat,1.0,you want to eat,1.0
 ningiiwe,I am going home,I am going home,I go home,0.4000581163052559,I go home,0.988203763961792

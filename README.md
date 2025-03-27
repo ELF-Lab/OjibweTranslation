@@ -19,7 +19,7 @@ It works closely with [ELF-Lab FST parser](https://github.com/ELF-Lab/OjibweMorp
 Currently the translation package supports:
 - All verb paradigms (VTA, VTI, VAI, VII)
 - Negations (positive, negative)
-- Orders: Independence, Imperative, Conjunction
+- Orders: Independent, Imperative, Conjunct
 - Modes: Simple, Neutral, Preterit, Dubtative, Delayed, Prohibitive
 - Tenses: Present, Future (will do something), Future (want to do something), Past
 

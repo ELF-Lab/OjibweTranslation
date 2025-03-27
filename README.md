@@ -28,23 +28,25 @@ The package is broadly divided into 2 parts:
 - Template extraction: Using LLMs (Large Language Model) to process dictionary data (at this momment, it supports OPD - Ojibwe People's Dictionary) to extract and pre-process templates for sentence building
 - Sentence building: with the extracted and pre-processed templates for various Ojibwe verbs (e.g. `{{subject}} pulls {{object}} out of water`), and output from the FST parser (lemma, tense, mode, negation, etc), the sentence building code will construct the corresponding English sentence (e.g. `They pulled him/her/it out of water`, with past tense, 3rd plural subject and 3rd singular object).
 
+### Data
+The data and templates, which is based on [Ojibwe People's Dictionary](https://ojibwe.lib.umn.edu/), are stored in `/app/data/samples/templates/` and `/tests/data/templates/` folders.
+
+The publicly available templates in this repository are just a small subset of actual database, and is for demonstration purpose. Please contact us for the full dataset. 
+
 ### Code structure
 The code is organized in the following folders:
-- `data`: (required for translation functions) contains the dictionary data and templates, together with the binary file of Ojibwe Foma
-  - `foma_bin`: contains the `objiwe.fomabin` binary file
-  - various `.csv` files for dictionary data and templates (vta, vti, vai, vii verbs, etc)
-- `src`: contains the source code
-  - `dictionary_template_building`: (*not* required for translation functions) contains the Jupyter notebook files to pre-process, data extraction and template building for VTA, VTI, VAI and VII verbs with external LLM (Large Language Model). These code should run once ahead of time, and will produce various `.csv` into the `data` folder.
-  - `demo`: contains Jupyter notebook file to demonstrate how to use the package
-  - `test`: contains Jupyter notebook files to test the code, including verb inflection, verb building with tense, subject, object, etc as well as full translation
-  - python files (required to run for translation functions):
-    - `vta.py`: process VTA (Transitive, Animate) verbs
-    - `vti.py`: process VTI (Transitive, Inanimate) verbs
-    - `vai.py`: process VAI (Animate, Intransitive) verbs
-    - `vii.py`: process VII (Inanimate, Intransitive) verbs
-    - `oj_translation_core.py`: handle template loading, FOMA parser loading, low-level verb inflections, etc
-    - `oj_en_translation.py`: contains abstract functions as interface to end-users, to translate inflected Ojibwe verbs to English, regardless of the verb types (VTA, VTI, etc)
-    - `OJ_CONSTANTS.py`: contains pre-set values for all other functions and modules. 
+- `app/`: translation web-application based on NiceGUI
+  - `data/samples/`: (required for the web app) contains a subset of dictionary data and templates, together with the binary file of Ojibwe Foma
+    - `foma_bin/`: contains the `objiwe.att` binary file
+    - various `.csv` files for dictionary data and templates (vta, vti, vai, vii verbs, etc)
+- `preprocessing/`: (*not* required for translation functions) contains the Jupyter notebook files to pre-process, data extraction and template building for VTA, VTI, VAI and VII verbs with external LLM (Large Language Model). These code should run once ahead of time, and will produce various `.csv` templates files
+- `docs/`: contains Jupyter notebook file to demonstrate how to use the package
+- `tests/`: contains Python files to test the code, including verb inflection, verb building with tense, subject, object, etc as well as full end-to-end translation
+  - `data/`: contains a small number of templates needed to perform self-test for the code
+- `ojibwe_translation/`: contains the source code Python files (required to run for translation functions):
+
+- `evaluation/`: contains the Jupyter Notebook and test set for evaluation scores (ChrF and Semantic Similarity)
+  - Please note in order to run evaluation script, the full template database is required. Please contact us about that. 
 
 ### Dependencies
 The package requires sereral software and packages to operate:

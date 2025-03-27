@@ -1,0 +1,215 @@
+ojibwe_verb,english_translation_raw,english_translation_standardized,best_system_translation,chrf_score,best_semantic_translation,semantic_similarity_score
+nimbakade,I am hungry,I am hungry,I am hungry,1.0,I am hungry,1.0000001192092896
+gibakade,you are hungry,you are hungry,you are hungry,1.0,you are hungry,0.9999998807907104
+bakade,s/he is hungry,he/she is hungry,he/she (proximate) is hungry,1.0,he/she (proximate) is hungry,1.0
+niwii-wiisin,"I want to eat, I will eat",I want to eat,I want to eat,1.0,I want to eat,1.0000001192092896
+giwii-wiisin,"you want to eat, you will eat",you want to eat,you want to eat,1.0,you want to eat,1.0
+ningiiwe,I am going home,I am going home,I go home,0.4000581163052559,I go home,0.988203763961792
+gigiiwe,You are going home,You are going home,you go home,0.4382322259669395,you go home,0.9761529564857483
+giiwe,s/he goes home,he/she goes home,he/she (proximate) goes home,1.0,he/she (proximate) goes home,0.9999998807907104
+niwii-kiiwe,"I want to go home, I will go home",I want to go home,I want to go home,1.0,I want to go home,0.9999999403953552
+giwii-kiiwe,"You want to go home, You will go home",You want to go home,you want to go home,1.0,you want to go home,1.0
+wii-kiiwe,"S/he wants to go home, she will go home",he/she wants to go home,he/she (proximate) wants to go home,1.0,he/she (proximate) wants to go home,1.0
+giga-waabamin,I will see you (definite future tense),I will see you (definite future tense),I will see you,1.0,I will see you,1.0000001192092896
+nimbii',I wait,I wait,I wait,1.0,I wait,1.0000001192092896
+gibii',you wait,you wait,you wait,1.0,you wait,1.0000001192092896
+bii'o,s/he waits,he/she waits,he/she (proximate) waits,1.0,he/she (proximate) waits,0.9999999403953552
+niwiisin,I eat,I eat,I eat,1.0,I eat,1.0000001192092896
+giwiisin,you eat,you eat,you eat,1.0,you eat,1.0
+wiisini,s/he eats,he/she eats,he/she (proximate) eats,1.0,he/she (proximate) eats,0.9999999403953552
+ningiigid,I speak,I speak,I speak,1.0,I speak,1.0000001192092896
+gigiigid,you speak,you speak,you speak,1.0,you speak,1.0000001192092896
+giigido,s/he speaks,he/she speaks,he/she (proximate) speaks,1.0,he/she (proximate) speaks,1.0
+nimaajaa,I leave,I leave,I leave,1.0,I leave,1.0
+gimaajaa,you leave,you leave,you leave,1.0,you leave,1.0
+maajaa,s/he leaves,he/she leaves,he/she (proximate) leaves,1.0,he/she (proximate) leaves,1.0
+niniim,I dance,I dance,I dance,1.0,I dance,1.0000001192092896
+nimbaap,I laugh,I laugh,I laugh,1.0,I laugh,1.0
+nindikid,I say,I say,I say so,0.9329906204906205,I say so,0.9189366698265076
+gimaw,you cry,you cry,you cry,1.0,you cry,1.0
+gimamaajii,you move,you move,you move,1.0,you move,1.0000001192092896
+giniibaw,you stand,you stand,you stand,1.0,you stand,1.0
+niibawi,s/he stands,he/she stands,he/she (proximate) stands,1.0,he/she (proximate) stands,1.0
+nagamo,s/he sings,he/she sings,he/she (proximate) sings,1.0,he/she (proximate) sings,1.0
+namadabi,s/he sits,he/she sits,he/she (proximate) sits,1.0,he/she (proximate) sits,1.0000001192092896
+baapi,s/he laughs,he/she laughs,he/she (proximate) laughs,1.0,he/she (proximate) laughs,1.0
+jaachaamo,s/he sneezes,he/she sneezes,he/she (proximate) sneezes,1.0,he/she (proximate) sneezes,1.0
+ozosodam,s/e coughs,s/e coughs,he/she (proximate) coughs,0.7918550028660821,he/she (proximate) coughs,0.7712210416793823
+gii-apatoo,s/he ran,he/she ran,he/she (proximate) ran in a certain way,0.8591249851687782,he/she (proximate) ran in a certain way,0.6964880228042603
+gii-pimaadage,s/he swam,he/she swam,he/she (proximate) swam along,0.9469752813406064,he/she (proximate) swam along,0.925134003162384
+bimaadage,s/he swims,he/she swims,he/she (proximate) swims along,0.9520903708546729,he/she (proximate) swims along,0.9324215054512024
+apatoo,s/he runs,he/she runs,he/she (proximate) runs in a certain way,0.8729857379142736,he/she (proximate) runs in a certain way,0.694784939289093
+bangishin,s/he falls,he/she falls,he/she (proximate) falls,1.0,he/she (proximate) falls,1.0000001192092896
+gii-pangishin,s/he fell,he/she fell,he/she (proximate) fell,1.0,he/she (proximate) fell,1.0
+daa-izhaa,s/he should go,he/she should go,he/she (proximate) goes to a certain place,0.5100914111172181,he/she (proximate) goes to a certain place,0.6344176530838013
+daa-bimise,s/he should fly (e.g. on a plane),he/she should fly (e.g. on a plane),he/she (proximate) flies along,0.5100914111172182,he/she (proximate) flies along,0.8040979504585266
+bimise,s/he flies (e.g. on a plane),he/she flies (e.g. on a plane),he/she (proximate) flies along,0.9520903708546729,he/she (proximate) flies along,0.9290223717689514
+zhingishin,s/he lies down,he/she lies down,he/she (proximate) lies down,1.0,he/she (proximate) lies down,1.0000001192092896
+daa-zhingishin,s/he should lie down,he/she should lie down,he/she (proximate) lies down,0.6031902031902032,he/she (proximate) lies down,0.7957636117935181
+minikwe,s/he is drinking,he/she is drinking,he/she (proximate) drinks,0.6334583359160314,he/she (proximate) drinks,0.9898781180381775
+daa-minwaagamin,"could, should, taste good (liquid)","could, should, taste good (liquid)",it (inanimate) (a liquid) tastes good,0.36311612364243945,it (inanimate) (a liquid) tastes good,0.6610864996910095
+minwaagamin,it (a liquid) tastes good,it (a liquid) tastes good,it (inanimate) (a liquid) tastes good,1.0,it (inanimate) (a liquid) tastes good,1.0000001192092896
+giga-mazinaatesijigemin,we (incl.) will watch t.v./film,we (incl.) will watch t.v./film,we (inclusive) will watch a movie,0.584631277679038,we (inclusive) will watch a movie,0.7874991297721863
+mazinaatesijige,s/he is watching t.v./film,he/she is watching t.v./film,he/she (proximate) watches a movie,0.4372898276586801,he/she (proximate) watches a movie,0.8726253509521484
+niwii-minikwe,I will/want to drink,I want to drink,I want to drink,1.0,I want to drink,1.0
+giwii-minikwe,you will/want to drink,you want to drink,you want to drink,1.0,you want to drink,1.0000001192092896
+ningiishkaabaagwe,I am thirsty,I am thirsty,I am thirsty,1.0,I am thirsty,1.0
+gigiishkaabaagwe,you are thirsty,you are thirsty,you are thirsty,1.0,you are thirsty,1.0
+giishkaabaagwe,s/he is thirsty,he/she is thirsty,he/she (proximate) is thirsty,1.0,he/she (proximate) is thirsty,1.0000001192092896
+nindebisinii,I am full (from eating),I am full (from eating),I am full,1.0,I am full,1.0000001192092896
+gidebisinii,you are full (from eating),you are full (from eating),you are full,1.0,you are full,0.9999998807907104
+debisinii,s/he is full (from eating),he/she is full (from eating),he/she (proximate) is full,1.0,he/she (proximate) is full,1.0
+anokii,s/he works,he/she works,he/she (proximate) works,1.0,he/she (proximate) works,1.0
+nindanokii,I work,I work,I work,1.0,I work,1.0
+gidanokii,you work,you work,you work,1.0,you work,1.0
+ojaanimizi,s/he is busy,he/she is busy,he/she (proximate) is busy,1.0,he/she (proximate) is busy,0.9999999403953552
+gidoojaanimiz,you are busy,you are busy,you are busy,1.0,you are busy,1.0000001192092896
+nindoojaanimiz,I am busy,I am busy,I am busy,1.0,I am busy,1.0000001192092896
+ayaa,s/he is (in a certain place),he/she is (in a certain place),,0.0,,0.0
+nindayaa,I am in a certain place.,I am in a certain place.,,0.0,,0.0
+gidayaa,you are in a certain place,you are in a certain place,,0.0,,0.0
+nindanweb,I rest,I rest,I rest,1.0,I rest,0.9999999403953552
+gidanweb,you rest,you rest,you rest,1.0,you rest,1.0
+anwebi,s/he rests,he/she rests,he/she (proximate) rests,1.0,he/she (proximate) rests,0.9999999403953552
+nindab,"I am at home, I am sitting in a certain place",I am at home,I am at home,1.0,I am at home,1.0000001192092896
+gidab,"you are at home,  you are sitting in a certain place",you are at home,you are at home,1.0,you are at home,1.0000001192092896
+ninga-ayaa,I will be there,I will be there,,0.0,,0.0
+ninga-kiiwe,I will go home,I will go home,,0.0,,0.0
+gidaa-jiibaakwemin,we (incl.) should/could cook,we (incl.) should/could cook,we (inclusive) cook,0.2484808497466725,we (inclusive) cook,0.6772991418838501
+giga-jiibaakwemin,we (incl.) will cook,we (incl.) will cook,we (inclusive) will cook,1.0,we (inclusive) will cook,0.9999998807907104
+ninjiibaakwe,I'm cooking,I'm cooking,I cook,0.38197454420364635,I cook,0.971695065498352
+gijiibaakwe,you're cooking,you're cooking,you cook,0.4305247195739555,you cook,0.9765401482582092
+jiibaakwe,s/he is cooking,he/she is cooking,he/she (proximate) cooks,0.6059501426141233,he/she (proximate) cooks,0.9822407364845276
+wii-wiisini,s/he want/will eat,he/she want/will eat,he/she (proximate) wants to eat,0.6515730788593824,he/she (proximate) wants to eat,0.953497588634491
+wiisinidaa,let's eat,let's eat,(Please) eat later,0.4851112939348233,(Please) eat,0.6773667931556702
+ningii-ozhisijige,I setted things,I setted things,I set something in place,0.5938170792472764,I set something in place,0.7949188351631165
+gigii-ozhisijige,you setted things,you setted things,you set something in place,0.6504064269252264,you set something in place,0.7985981702804565
+gii-ozhisijige,s/he setted things,he/she setted things,he/she (proximate) set something in place,0.7107944900555094,he/she (proximate) set something in place,0.8376433253288269
+daa-ate,it could/should be there,it could/should be there,it (inanimate) is in a certain place,0.17790080290080293,it (inanimate) is in a certain place,0.5507254600524902
+ninga-ozhisijige,I will set things,I will set things,I will set something in place,0.8037851037851039,I will set something in place,0.8366906642913818
+giga-ozhisijige,you will set things,you will set things,you will set something in place,0.8290032679738563,you will set something in place,0.8395953178405762
+da-ozhisijige,s/he will set things,he/she will set things,he/she (proximate) will set something in place,0.8566276803118908,he/she (proximate) will set something in place,0.8682587146759033
+ninga-minopijigemin,we (excl.) will enjoy the taste of things,we (excl.) will enjoy the taste of things,we (exclusive) will like the taste of something,0.7215379790593083,we (exclusive) will like the taste of something,0.8736825585365295
+da-minopogwad,it will taste good,it will taste good,it (inanimate) will taste good,1.0,it (inanimate) will taste good,1.0000001192092896
+ninandawendaan,I need/want it (in.),I want it (in.),I want it,1.0,I want it,1.0000001192092896
+ninandawendaanan,I need/want them (in.),I want them (in.),I want them,1.0,I want them,1.0000001192092896
+ginandawendaan,you need/want it (in.),you want it (in.),you want it,1.0,you want it,1.0000001192092896
+ginandawendaanan,you need/want them (in.),you want them (in.),you want them,1.0,you want them,1.000000238418579
+onandawendaan,s/he needs/wants it (in.),he/she wants it (in.),he/she (proximate) wants it,1.0,he/she (proximate) wants it,1.0
+onandawendaanan,s/he needs/wants them (in.),he/she wants them (in.),he/she (obviative) wants them,1.0,he/she (obviative) wants them,1.000000238418579
+nindayaan,I have/own it (in.),I have it (in.),I have it,1.0,I have it,0.9999998211860657
+nindayaanan,I have/own them (in.),I have them (in.),I have them,1.0,I have them,1.0
+gidayaan,you have/own it (in.),you have it (in.),you have it,1.0,you have it,1.0000001192092896
+gidayaanan,you have/own them (in.),you have them (in.),you have them,1.0,you have them,1.0
+odayaan,s/he has/owns it (in.),he/she has it (in.),he/she (proximate) has it,1.0,he/she (proximate) has it,1.0000001192092896
+odayaanan,s/he has/owns them (in.),he/she has them (in.),he/she (proximate) has them,1.0,he/she (proximate) has them,1.0000001192092896
+agaasaawan,they are small,they are small,they (inanimate) are small,1.0,they (inanimate) are small,1.0000001192092896
+onizhishinoon,"they are nice, good",they are nice,they (inanimate) are nice,1.0,they (inanimate) are nice,1.0000001192092896
+nindinendam,"I think a certain way, consent",I think a certain way,,0.0,,0.0
+gidinendam,"you think a certain way, consent","you think a certain way, consent",,0.0,,0.0
+inendam,"s/he thinks a certain way, consents","he/she thinks a certain way, consents",,0.0,,0.0
+michaawan,they are big,they are big,they (inanimate) are big,1.0,they (inanimate) are big,1.0000001192092896
+nindayaawaa,I have/own it (an.),I have it (an.),I have him/her/it (proximate),0.7166571314644337,I have him/her/it (proximate),0.8168456554412842
+nindayaawaag,I have/owh them (an.),I have/owh them (an.),I have them (proximate),0.5964773677851102,I have them (proximate),0.8879226446151733
+gidayaawaa,you have/own it (an.),you have it (an.),you have him/her/it (proximate),0.7849491778063206,you have him/her/it (proximate),0.824787974357605
+gidayaawaag,you have/own them (an.),you have them (an.),you have them (proximate),1.0,you have them (proximate),1.0
+odayaawaan,s/he has it/them (an.),he/she has it/them (an.),he/she (proximate) has them (obviative),0.7444197013347469,he/she (proximate) has them (obviative),0.9719098210334778
+ninandawenimaa,I need/want it (an.),I want it (an.),I want him/her/it (proximate) (animate),0.7166571314644337,I want him/her/it (proximate) (animate),0.8117586374282837
+ninandawenimaag,I need/want them (an.),I want them (an.),I want them (proximate) (animate),1.0,I want them (proximate) (animate),1.0000001192092896
+ginandawenimaa,you need/want it (an.),you want it (an.),you want him/her/it (proximate) (animate),0.7849491778063206,you want him/her/it (proximate) (animate),0.8170996904373169
+ginandawenimaag,you need/want them (an.),you want them (an.),you want them (proximate) (animate),1.0,you want them (proximate) (animate),1.000000238418579
+onandawenimaan,s/he needs/wants it/them (an.),he/she wants it/them (an.),he/she (proximate) wants them (obviative) (animate),0.7755125611887528,he/she (proximate) wants them (obviative) (animate),0.9693580865859985
+nimbezhig,"I am alone, am one","I am alone, am one",I am alone,0.5626156146263588,I am the only one,0.8781919479370117
+gibezhig,"you are alone, are one","you are alone, are one",you are alone,0.6125234589740006,you are the only one,0.8835368156433105
+bezhigo,"s/he is alone, is one","he/she is alone, is one",he/she (proximate) is alone,0.6889695396204337,he/she (proximate) is the only one,0.8973367810249329
+nindagaashiinh,I am small,I am small,,0.0,,0.0
+gidagaashiinh,you are small,you are small,,0.0,,0.0
+agaashiinyi,s/he is small,he/she is small,he/she (proximate) is small,1.0,he/she (proximate) is small,1.0
+nimindid,I am big,I am big,I am big,1.0,I am big,0.9999999403953552
+gimindid,you are big,you are big,you are big,1.0,you are big,1.0
+mindido,s/he is big,he/she is big,he/she (proximate) is big,1.0,he/she (proximate) is big,1.000000238418579
+daa-michaa,it could/should be big,it could/should be big,it (inanimate) is big,0.19298040649910939,it (inanimate) is big,0.6952062249183655
+giga-ganoonin,I will talk to you,I will talk to you,I will speak to you,0.705533042414936,I will speak to you,0.9968692064285278
+ninganawaabandaan,I look/watch it,I look/watch it,I watch it,0.545976535541753,I look at it,0.8570288419723511
+ninganawaabandaanan,I look/watch them,I look/watch them,I watch them,0.6140825883354619,I look at them,0.8845604658126831
+giganawaabandaan,you look/watch it,you look/watch it,you watch it,0.5874159216687952,you look at it,0.8597246408462524
+giganawaabandaanan,you look/watch them,you look/watch them,you watch them,0.6413860518421142,you look at them,0.8864731788635254
+oganawaabandaan,s/he looks/watches it,he/she looks/watches it,he/she (proximate) watches it,0.6677410991290286,he/she (proximate) looks at it,0.9422391057014465
+oganawaabandaanan,s/he looks/watches them,he/she looks/watches them,he/she (obviative) watches them,0.6990393509428693,he/she (obviative) looks at them,0.9468578100204468
+ningii-kanawaabandaan,I looked/watched it,I looked/watched it,I watched it,0.541961079673097,I looked at it,0.8728386759757996
+gigii-kanawaabandaan,you looked/watched it,you looked/watched it,you watched it,0.5748566443370758,you looked at it,0.8762279748916626
+ogii-kanawaabandaan,s/he looked/watched it,he/she looked/watched it,he/she (proximate) watched it,0.6381892091037081,he/she (proximate) looked at it,0.9481143355369568
+niwii-kanawaabandaan,I want/will watch it,I want/will watch it,I want to watch it,0.6332410788285209,I want to watch it,0.8852908611297607
+giwii-kanawaabandaan,you want/will watch it,you want/will watch it,you want to watch it,0.6751438661695914,you want to watch it,0.8699594140052795
+owii-kanawaabandaan,s/he wants/will watch it,he/she wants/will watch it,he/she (proximate) wants to watch it,0.7355357444019238,he/she (proximate) wants to watch it,0.9472607970237732
+da-mazinaatese,the movie/tv/film will play,the movie/tv/film will play,it (inanimate) will be a movie,0.3738314825271347,it (inanimate) will be a movie,0.6291648745536804
+mazinaateseg,when/if/that/while the movie is playing,if/when the movie is playing,If/when they (inanimate) are a movie,0.6016064937493867,If/when it (inanimate) is a movie,0.8875083923339844
+dibikak,when/if/that/during the night,when/if/that/during the night,If/when they (inanimate) are night,0.4852079834730772,If/when it (inanimate) is night,0.8744627833366394
+niminwendaan,I like it,I like it,I like it,1.0,I like it,1.0000001192092896
+niminwendaanan,I like them,I like them,I like them,1.0,I like them,1.0
+giminwendaan,you like it,you like it,you like it,1.0,you like it,1.0000001192092896
+giminwendaanan,you like them,you like them,you like them,1.0,you like them,1.0
+ominwendaan,s/he likes it,he/she likes it,he/she (proximate) likes it,1.0,he/she (proximate) likes it,1.0000001192092896
+ominwendaanan,s/he likes them,he/she likes them,he/she (obviative) likes them,1.0,he/she (obviative) likes them,1.0000001192092896
+gidaa-minikwemin,we (incl.) should drink,we (incl.) should drink,we (inclusive) drink,0.4305247195739555,we (inclusive) drink,0.835562527179718
+ninga-ozhitoon,I will make it,I will make it,I will make it,1.0,I will make it,1.000000238418579
+nindizhaa,I am going to a certain place,I am going to a certain place,I go to a certain place,0.7106069200226885,I go to a certain place,0.9927955865859985
+gidizhaa,you are going to a certain place,you are going to a certain place,you go to a certain place,0.6941378281897194,you go to a certain place,0.9896819591522217
+izhaa,s/he is going to a certain place,he/she is going to a certain place,he/she (proximate) goes to a certain place,0.7589894208045194,he/she (proximate) goes to a certain place,0.9929601550102234
+ningii-izhaa,I went to a certain place,I went to a certain place,I went to a certain place,1.0,I went to a certain place,1.0000001192092896
+gigii-izhaa,you went to a certain place,you went to a certain place,you went to a certain place,1.0,you went to a certain place,1.0000001192092896
+gii-izhaa,s/he went to a certain place,he/she went to a certain place,he/she (proximate) went to a certain place,1.0,he/she (proximate) went to a certain place,1.0
+niwaabamaa,I see h/,I see him/her/it,I see him/her/it (proximate),1.0,I see him/her/it (proximate),0.9999999403953552
+niwaabamaag,I see them,I see them,I see them (proximate),1.0,I see them (proximate),1.0
+giwaabamaa,you see h/,you see him/her/it,you see him/her/it (proximate),1.0,you see him/her/it (proximate),1.0
+giwaabamaag,you see them,you see them,you see them (proximate),1.0,you see them (proximate),1.000000238418579
+owaabamaan,s/he sees h//them,he/she sees him/her/it/them,he/she (proximate) sees him/her/it (obviative),0.8082790563033724,he/she (proximate) sees him/her/it (obviative),0.9792114496231079
+ningii-waabamaa,I saw h/,I saw him/her/it,I saw him/her/it (proximate),1.0,I saw him/her/it (proximate),1.0000001192092896
+ningii-waabamaag,I saw them,I saw them,I saw them (proximate),1.0,I saw them (proximate),0.9999999403953552
+gigii-waabamaa,you saw h/,you saw him/her/it,you saw him/her/it (proximate),1.0,you saw him/her/it (proximate),1.0000001192092896
+gigii-waabamaag,you saw them,you saw them,you saw them (proximate),1.0,you saw them (proximate),1.0
+ogii-waabamaan,s/he saw h//them,he/she saw him/her/it/them,he/she (proximate) saw him/her/it (obviative),0.7997361042388257,he/she (proximate) saw him/her/it (obviative),0.9785506725311279
+ninoondawaa,I hear h/,I hear him/her/it,I hear him/her/it (proximate),1.0,I hear him/her/it (proximate),1.0
+ninoondawaag,I hear them,I hear them,I hear them (proximate),1.0,I hear them (proximate),1.0000001192092896
+ginoondawaa,you hear h/,you hear him/her/it,you hear him/her/it (proximate),1.0,you hear him/her/it (proximate),1.000000238418579
+ginoondawaag,you hear them,you hear them,you hear them (proximate),1.0,you hear them (proximate),1.0000001192092896
+onoondawaan,s/he hear h//them,he/she hear him/her/it/them,he/she (proximate) hears him/her/it (obviative),0.761228198752664,he/she (proximate) hears him/her/it (obviative),0.9766413569450378
+ningii-noondawaa,I heard h/,I heard him/her/it,I heard him/her/it (proximate),1.0,I heard him/her/it (proximate),1.0000001192092896
+ningii-noondawaag,I heard them,I heard them,I heard them (proximate),1.0,I heard them (proximate),1.0000001192092896
+gigii-noondawaa,you heard h/,you heard him/her/it,you heard him/her/it (proximate),1.0,you heard him/her/it (proximate),1.0000001192092896
+gigii-noondawaag,you heard them,you heard them,you heard them (proximate),1.0,you heard them (proximate),1.0
+ogii-noondawaan,s/he heard h//them,he/she heard him/her/it/them,he/she (proximate) heard him/her/it (obviative),0.8161221935582743,he/she (proximate) heard him/her/it (obviative),0.9793417453765869
+ningiiwanim,I am lying/decieving,I am lying/decieving,I deceive,0.20114379084967318,I lie,0.7650703191757202
+gigiiwanim,you are lying/decieving,you are lying/decieving,you deceive,0.275294872676567,you lie,0.7768405079841614
+giiwanimo,s/he is lying/decieving,he/she is lying/decieving,he/she (proximate) deceives,0.4053794774847998,he/she (proximate) lies,0.8944459557533264
+niwii-izhaamin,we (excl) want/will go,we (excl) want/will go,we (exclusive) want to go to a certain place,0.495546553039049,we (exclusive) want to go to a certain place,0.6632890105247498
+giwii-izhaamin,we (incl) want/will go,we (incl) want/will go,we (inclusive) want to go to a certain place,0.495546553039049,we (inclusive) want to go to a certain place,0.6632890105247498
+niwii-izhaa,I want/will go,I want/will go,I want to go to a certain place,0.4531704634163651,I want to go to a certain place,0.6510335206985474
+giwii-izhaa,you want/will go,you want/will go,you want to go to a certain place,0.531809945264356,you want to go to a certain place,0.6379101872444153
+wii-izhaa,s/he want/will go,he/she want/will go,he/she (proximate) wants to go to a certain place,0.6112865168325221,he/she (proximate) wants to go to a certain place,0.7337855696678162
+ninga-anokii,I will work,I will work,I will work,1.0,I will work,1.0000001192092896
+giga-anokii,you will work,you will work,you will work,1.0,you will work,1.0000001192092896
+da-anokii,s/he will work,he/she will work,he/she (proximate) will work,1.0,he/she (proximate) will work,1.0000001192092896
+jibwaa-dibikak,when/at before dark,when/at before dark,If/when they (inanimate) are dark (as at night),0.5904794619238374,If/when it (inanimate) is dark (as at night),0.8715193867683411
+nindaa-anokiimin,we (excl) should/could work,we (excl) should/could work,we (exclusive) work,0.2484808497466725,we (exclusive) work,0.7114446759223938
+gidaa-anokiimin,we (incl) should/could work,we (incl) should/could work,we (inclusive) work,0.2484808497466725,we (inclusive) work,0.7114446759223938
+ishpi-dibikak,if/when/at/during late at night,if/when/at/during late at night,If/when they (inanimate) are late at night,0.6340402539079869,If/when it (inanimate) is late at night,0.8830507397651672
+ninga-boozimin,we (excl) will get on board,we (excl) will get on board,we (exclusive) will get aboard,0.8017655775341738,we (exclusive) will get aboard,0.9862924814224243
+giga-boozimin,we (incl) will get on board,we (incl) will get on board,we (inclusive) will get aboard,0.8017655775341738,we (inclusive) will get aboard,0.9862924814224243
+bezikaamagad,moves slowly,moves slowly,,0.0,,0.0
+ninga-gizhiikaamin,we (excl) will move fast,we (excl) will move fast,we (exclusive) will go fast,0.6435253418488496,we (exclusive) will go fast,0.9520361423492432
+giga-gizhiikaamin,we (incl) will move fast,we (incl) will move fast,we (inclusive) will go fast,0.6435253418488496,we (inclusive) will go fast,0.9520361423492432
+izhinikaazowag,they are named a certain way,they are named a certain way,they (proximate) are named a certain way,1.0,they (proximate) are named a certain way,1.0
+ninga-minawaanigozimin,"we (excl) are joyous, having a good time","we (excl) are joyous, having a good time",we (exclusive) will have a good time,0.47248533716264457,we (exclusive) will have a good time,0.7867686152458191
+giga-minawaanigozimin,"we (incl) are joyous, having a good time","we (incl) are joyous, having a good time",we (inclusive) will have a good time,0.47248533716264457,we (inclusive) will have a good time,0.7867686152458191
+ezhinaagwak,that which has a certain look,that which has a certain look,,0.0,,0.0
+nindaa-abwemin,we (excl) should/could roast/cook over a fire,we (excl) should/could roast/cook over a fire,we (exclusive) roast something over a fire,0.4459515354274928,we (exclusive) cook something over a fire,0.6924965381622314
+gidaa-abwemin,we (incl) should/could roast/cook over a fire,we (incl) should/could roast/cook over a fire,we (inclusive) roast something over a fire,0.4459515354274928,we (inclusive) cook something over a fire,0.6924965381622314
+ninga-bakademin,we (excl) will be hungry,we (excl) will be hungry,we (exclusive) will be hungry,1.0,we (exclusive) will be hungry,1.000000238418579
+giga-bakademin,we (incl) will be hungry,we (incl) will be hungry,we (inclusive) will be hungry,1.0,we (inclusive) will be hungry,1.000000238418579
+ninga-biidoomin,we (excl) will bring it,we (excl) will bring it,we (exclusive) will bring it,1.0,we (exclusive) will bring it,1.0
+giga-biidoomin,we (incl) will bring it,we (incl) will bring it,we (inclusive) will bring it,1.0,we (inclusive) will bring it,1.0
+ninga-nandawenjigemin,we (excl) will hunt/fish/need things,we (excl) will hunt/fish/need things,,0.0,,0.0
+giga-nandawenjigemin,we (incl) will hunt/fish/need things,we (incl) will hunt/fish/need things,,0.0,,0.0
+nindaa-biidoomin,we (excl) should/could bring it,we (excl) should/could bring it,we (exclusive) bring it,0.36926158549395455,we (exclusive) bring it,0.7022863030433655
+gidaa-biidoomin,we (incl) should/could bring it,we (incl) should/could bring it,we (inclusive) bring it,0.36926158549395455,we (inclusive) bring it,0.7022863030433655
